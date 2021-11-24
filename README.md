@@ -8,4 +8,5 @@ Nội dung các bài tập Lab:<br/>
   <li> <b> Lab 04: </b> Implement ResNet-50 </li>
   <li> <b> Lab 05: </b> LSTM and GRU </li>
   <li> <b> Lab 06: </b> Convolution 1D and Embedding layer </li>
+  <li> <b> Lab 07: </b> Deep Convolutional GAN (DCGAN) </li>
 </ul>
