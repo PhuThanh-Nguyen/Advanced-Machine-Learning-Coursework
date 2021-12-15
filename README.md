@@ -19,4 +19,5 @@ Nội dung các bài tập Lab:<br/>
   <li> <b> Lab 06: </b> Convolution 1D and Embedding layer </li>
   <li> <b> Lab 07: </b> Deep Convolutional GAN (DCGAN) </li>
   <li> <b> Lab 08: </b> Conditional GAN (CGAN) </li>
+  <li> <b> Lab 09: </b> Reinforcement learning: Q-learning </li>
 </ul>
